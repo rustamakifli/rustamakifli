@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hi 👋, I'm Rustam</h1>
-<h3 align="center">I'm a passionate Python/Django developer</h3>
+<h3 align="center">I'm a passionate Python developer and Cyber Security specialist</h3>
 
 
 
